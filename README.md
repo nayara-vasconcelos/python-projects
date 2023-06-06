@@ -1,7 +1,9 @@
 ## Projetos em Python :snake:
 
+<br>
+
 ```python
-welcome_msg = "Boas vindas ao repositório de projetos programados em 'Python'!"
+welcome_msg = "Boas vindas ao repositório de projetos programados em Python!"
 print(welcome_msg)
 ```
 ___
@@ -18,6 +20,9 @@ Nesse módulo foram abordados assuntos como:
 - Complexidade de Algoritmos (Big O Notation), Recursividade e Algoritmos de Ordenação e Busca
 - Noções de Arquitetura de Computadores e de Arquitetura de Redes
 - Estruturas de dados (array, lista encadeada, lista duplamente encadeada, deque, hashmap, pilhas e filas)
+<br><br>
+
+**Os projetos que eu mais gostei de fazer foram: `Restaurant Orders`, `Inventory Report` e `Tech News`.**
 <br><br>
 
 #### 1) [Job Insights](https://github.com/nayara-vasconcelos/trybe-job-insights)
